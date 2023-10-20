@@ -1,0 +1,9 @@
+<script type="text/javascript">
+      a = 10;
+      a +=20;
+//Variaveis que estão combinadas com uma operãção
+
+      document.write("Result de A="+ a);
+//Resultado é a soma das variaveis
+
+</script>
